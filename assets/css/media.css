@@ -3,6 +3,10 @@
     .container{
         width: 90%;
     }
+    .container .text-wrapper h2{
+        padding: 0;
+        margin-bottom: .625rem;
+    }
     .container .text-wrapper p{
         padding-inline: 0;
     }
