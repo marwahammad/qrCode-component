@@ -1,0 +1,48 @@
+/* !max-width 640px */
+@media screen and (max-width: 640px) {
+    .container{
+        width: 90%;
+    }
+    .container .text-wrapper p{
+        padding-inline: 0;
+    }
+}
+
+/* !min-width 640px */
+@media screen and (min-width: 640px) {
+    .container{
+        width: 30%;
+    }
+    .container .text-wrapper p{
+        padding-inline: 25px;
+    }
+}
+
+/* !min-width 768px */
+
+@media screen and (min-width: 768px) {
+    .container{
+        width: 40%;
+    }
+    .container .text-wrapper p{
+        padding-inline: 0;
+    }
+}
+
+/* !min-width 1024px */
+@media screen and (min-width: 1024px) {
+    .container{
+        width: 20%;
+    }
+    .container .text-wrapper p{
+        padding-inline: 10px;
+    }
+}
+
+/* !min-width 1280px */
+@media screen and (min-width: 1280px) {
+}
+
+/* !min-width 1536px */
+@media screen and (min-width: 1536px) {
+}
